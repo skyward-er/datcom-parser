@@ -2,7 +2,9 @@
 """
 Created on Mon Apr 29 00:16:41 2013
 'Main Scripting Function'
-@author: rubendibattista
+author: Ruben Di Battista <ruben.dibattista@skywarder.eu>
+version: 0.01a
+License: Read LICENSE File
 """
 if __name__ == "__main__":
     import functions as f

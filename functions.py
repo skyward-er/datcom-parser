@@ -2,7 +2,12 @@
 
 ''' Function library for
 for006.dat MISSILE DATCOM output file
-parsing '''
+parsing
+Author: Ruben Di Battista <ruben.dibattista@skywarder.eu>
+Version: 0.01a
+License: Read LICENSE file
+
+ '''
 
 import re;
 import numpy as n;
