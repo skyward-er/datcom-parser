@@ -11,4 +11,4 @@ The version is pre-alpha so it could behave very buggy.
 python datcom_parser.py filename
 ```
 
-The filename is optional. Without it the parser will look for the `for005.dat' file.
+The filename is optional. Without it the parser will look for the `for006.dat' file.
