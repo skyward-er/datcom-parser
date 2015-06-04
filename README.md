@@ -46,7 +46,6 @@ Coeffs =
      CLLP: [4-D double]
      CLLR: [4-D double]
     X_C_P: [4-D double]
-    ```
 ```
 State = 
 
