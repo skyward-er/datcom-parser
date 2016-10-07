@@ -15,7 +15,7 @@ The filename is optional. Without it the parser will look for the `for006.dat' f
 
 ## Output File ###
 The Output file is composed by two structures: `Coeffs` and `State`. 
-`Coeffs` contains all the aerodynamic coefficients interpolated over the 4 states (AoA, Mach, Altitude, Sidesplip angles) and the struct `State` contains the set of states (Aoa, Mach, Altitude, Sideslip Angle) the coefficients have been calculated on and the position of the center of gravity.
+`Coeffs` contains all the aerodynamic coefficients interpolated over the 4 states (AoA, Mach, Altitude, Sideslip angles) and the struct `State` contains the set of states (Aoa, Mach, Altitude, Sideslip Angle) the coefficients have been calculated on and the position of the center of gravity.
 
 ```
 Coeffs = 
